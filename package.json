@@ -1,0 +1,19 @@
+{
+  "name": "ghost-os",
+  "version": "0.0.0",
+  "private": true,
+  "description": "System-first, node-ready digital worker architecture.",
+  "type": "module",
+  "scripts": {
+    "build": "tsc -p tsconfig.build.json",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.3",
+    "vitest": "^3.2.4"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
