@@ -104,3 +104,12 @@ Ghost OS is intended to evolve over many years rather than being tied to one mod
 Ghost OS is an active long-term research and engineering project.
 
 The current repository represents foundational architecture and infrastructure rather than the final user-facing system.
+
+
+## License
+
+Ghost OS is proprietary software.
+
+The source code is publicly available for transparency, portfolio and evaluation purposes, but redistribution, commercial use and derivative works are not permitted without explicit permission.
+
+See [LICENSE](LICENSE) for details.
