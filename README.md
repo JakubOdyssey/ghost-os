@@ -57,6 +57,7 @@ Ghost Core
             ├── Business systems
             └── Home / device integrations
 
+
            The architecture is intentionally modular so individual providers, models, storage systems and integrations can evolve without requiring the entire system to be rebuilt.
 
 ## Current Development
