@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/images/ghost-logo.png" width="220" alt="Ghost OS logo">
+  <img src="ghost-logo.png" width="240" alt="Ghost OS logo">
 </p>
 
 <h1 align="center">Ghost OS</h1>
@@ -7,7 +7,7 @@
 <p align="center">
   A long-term personal AI operating system for memory, planning, automation, integrations and connected environments.
 </p>
-# Ghost OS
+
 
 > A long-term personal AI operating system designed to become a central intelligence layer across software, devices, services and connected environments.
 
@@ -16,6 +16,10 @@ Ghost OS is an experimental systems-engineering project inspired by the idea of 
 The goal is not to build another chatbot or smart-home dashboard.
 
 Ghost is designed as a modular AI system capable of maintaining memory, planning actions, coordinating automation, connecting external services and eventually interacting with the physical environment.
+
+<p align="center">
+  <img src="ghost-mascot.png" width="110" alt="Ghost mascot">
+</p>
 
 ## Vision
 
@@ -87,10 +91,6 @@ Where practical, Ghost is designed around local control and explicit access boun
 ### Security
 
 External capabilities should operate through defined permissions and policy controls rather than unrestricted system access.
-
-<p align="center">
-  <img src="docs/images/ghost-mascot.png" width="110" alt="Ghost mascot">
-</p>
 
 ### Long-Term Extensibility
 
