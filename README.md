@@ -56,11 +56,13 @@ Ghost Core
             ├── APIs
             ├── Business systems
             └── Home / device integrations
+```
 
-
-           The architecture is intentionally modular so individual providers, models, storage systems and integrations can evolve without requiring the entire system to be rebuilt.
+The architecture is intentionally modular so individual providers, models, storage systems and integrations can evolve without requiring the entire system to be rebuilt.
 
 ## Current Development
+
+Current work focuses on the foundations required before higher-level autonomous behavior is introduced.
 
 Current work focuses on the foundations required before higher-level autonomous behavior is introduced.
 
